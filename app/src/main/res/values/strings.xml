@@ -1,0 +1,5 @@
+
+<resources>
+    <string name="app_name">Same o no</string>
+    <string name="result_text_template">%s es mayor que %s</string>
+</resources>
